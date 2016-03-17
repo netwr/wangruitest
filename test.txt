@@ -20,4 +20,4 @@ diercixiugai tijiao
 
 分支dev002 的提交
 
-Creating a new branch is quick AND.
+Creating a new branch is quick AND simple.
